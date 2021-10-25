@@ -4,6 +4,10 @@ This work was to create a user profile, which is a set of photos and information
 
 # Work on this project
 
+Folder: 
+
+![image](https://user-images.githubusercontent.com/57871748/138695589-bc5bb0e8-2c7b-428f-9b6c-ec0d8dda78c3.png)
+
 * The file called "main.dart" contains an overview of the design of the home profile.
 
 * The file named "secondpage.dart" displays a page that represents the purchase of the necessary items through the user profile.
@@ -53,7 +57,12 @@ The widget tree of this work can be viewed after downloading and opening this pr
 
 After completing these steps on the right of the screen you can see a list of used options in a tree structure.
 
-
+# Usage
+Command prompt.
+*  git clone https:github.com/Nazarko12/account-application.git ;
+*  cd account-application/ ;
+*  flutter run .
+You can run the application in browsers and in the Android emulator.
 
 
 
