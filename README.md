@@ -63,6 +63,7 @@ Command prompt.
 *  git clone https:github.com/Nazarko12/account-application.git ;
 *  cd account-application/ ;
 *  flutter run .
+
 You can run the application in browsers and in the Android emulator.
 
 
