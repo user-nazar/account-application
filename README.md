@@ -17,6 +17,7 @@ This work was to create a user profile, which is a set of photos and information
 # Application "Home Page"
 
 * main page of this account;
+* user information;
 * user photos;
 * page evaluation.
 
