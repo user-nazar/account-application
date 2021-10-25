@@ -64,7 +64,7 @@ Command prompt.
 *  cd account-application/ ;
 *  flutter run .
 
-You can run the application in browsers and in the Android emulator.
+You can run this application in browsers and in the Android emulator.
 
 
 
