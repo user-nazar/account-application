@@ -19,6 +19,7 @@ Folder:
 * page evaluation.
 
 Screenshots:
+* Tablet.
 
 ![image](https://user-images.githubusercontent.com/57871748/138684065-58c80464-4cac-499b-9767-2d7799bca3ed.png)
 
