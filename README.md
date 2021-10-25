@@ -45,7 +45,7 @@ When you click on the photos posted in the review form of this user, another pag
 * availability of purchase;
 * buying certain things;
 * price;
-* user photo;
+* user photo.
 
 Screenshot:
 
