@@ -1,4 +1,4 @@
-# Flutter
+# Flutter. Dart
 
 This work was to create a user profile, which is a set of photos and information.
 
