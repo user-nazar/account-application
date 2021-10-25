@@ -30,6 +30,7 @@ Screenshots:
 It is possible to view this application for some extensions, in particular for extensions on the Galaxy mobile phone.
 
 Screenshot:
+* Telephone.
 
 ![image](https://user-images.githubusercontent.com/57871748/138684579-dec232e3-2535-459e-8607-af9e500ab575.png)
 
