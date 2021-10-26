@@ -1,6 +1,6 @@
 # Flutter. Dart
 
-This work was to create a user profile, which is a set of photos and information.
+* This work was to create a user profile, which is a set of photos and information--.
 
 ![image](https://user-images.githubusercontent.com/57871748/138697529-3210406d-9a5a-426a-bd51-3de3bfdb23ef.png)
 
@@ -45,7 +45,7 @@ When you click on the photos posted in the review form of this user, another pag
 * the name of the profile of the user who made this purchase;
 * availability of purchase;
 * buying certain things;
-* price;
+* price this thing;
 * user photo.
 
 Screenshot:
