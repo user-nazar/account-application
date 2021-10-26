@@ -22,7 +22,7 @@ This work was to create a user profile, which is a set of photos and information
 * page evaluation.
 
 Screenshots:
-* Tablet.
+* **Tablet**.
 
 ![image](https://user-images.githubusercontent.com/57871748/138684065-58c80464-4cac-499b-9767-2d7799bca3ed.png)
 
@@ -34,7 +34,7 @@ Screenshots:
 It is possible to view this application for some extensions, in particular for extensions on the Galaxy mobile phone.
 
 Screenshot:
-* Telephone.
+* **Telephone**.
 
 ![image](https://user-images.githubusercontent.com/57871748/138684579-dec232e3-2535-459e-8607-af9e500ab575.png)
 
