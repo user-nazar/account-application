@@ -36,7 +36,8 @@ It is possible to view this application for some extensions, in particular for e
 Screenshot:
 * **Telephone**.
 
-![image](https://user-images.githubusercontent.com/57871748/138684579-dec232e3-2535-459e-8607-af9e500ab575.png)
+![image](https://user-images.githubusercontent.com/57871748/138908757-d2635e7a-5a3d-4855-8e1e-9957dc856683.png)
+
 
 # Navigation
 
