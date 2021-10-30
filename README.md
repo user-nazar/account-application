@@ -1,5 +1,4 @@
-# Flutter 
-# Dart
+# Flutter. Dart
 
 * This work was to create a user profile, which is a set of photos and information.
 
@@ -65,6 +64,7 @@ The widget tree of this work can be viewed after downloading and opening this pr
 After completing these steps on the right of the screen you can see a list of used options in a tree structure.
 
 # Usage
+
 Command prompt.
 *  **git clone** https://github.com/Nazarko12/account-application.git ;
 *  **cd** account-application/ ;
