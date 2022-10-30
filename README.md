@@ -66,7 +66,7 @@ After completing these steps on the right of the screen you can see a list of us
 # Usage
 
 Command prompt.
-*  **git clone** https://github.com/Nazarko12/account-application.git ;
+*  **git clone** https://github.com/user-nazar/account-application.git ;
 *  **cd** account-application/ ;
 *  **flutter run** .
 
